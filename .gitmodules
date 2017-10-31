@@ -10,3 +10,6 @@
 [submodule "05. Power BI - Hands on Lab"]
 	path = 05. Power BI - Hands on Lab
 	url = git@github.com:Microsoft-OCP-ISV/05.-Power-BI---Hands-on-Lab.git
+[submodule "06. Machine Learning - Hands on Lab"]
+	path = 06. Machine Learning - Hands on Lab
+	url = git@github.com:Microsoft-OCP-ISV/06.-Machine-Learning---Hands-on-Lab.git
