@@ -1,3 +1,6 @@
 [submodule "02. Internet of Things - Hands on Lab"]
 	path = 02. Internet of Things - Hands on Lab
 	url = git@github.com:Microsoft-OCP-ISV/02.-Internet-of-Things---Hands-on-Lab.git
+[submodule "03. Cognitive Services - Hands on Lab"]
+	path = 03. Cognitive-Services - Hands on Lab
+	url = git@github.com:Microsoft-OCP-ISV/03.-Cognitive-Services---Hands-on-Lab
