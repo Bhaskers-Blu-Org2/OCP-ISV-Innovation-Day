@@ -7,3 +7,6 @@
 [submodule "04. Azure Container Service - Hands on Lab"]
 	path = 04. Azure Container Service - Hands on Lab
 	url = git@github.com:Microsoft-OCP-ISV/04.-Azure-Container-Service---Hands-on-Lab.git
+[submodule "05. Power BI - Hands on Lab"]
+	path = 05. Power BI - Hands on Lab
+	url = git@github.com:Microsoft-OCP-ISV/05.-Power-BI---Hands-on-Lab.git
