@@ -13,3 +13,6 @@
 [submodule "06. Machine Learning - Hands on Lab"]
 	path = 06. Machine Learning - Hands on Lab
 	url = git@github.com:Microsoft-OCP-ISV/06.-Machine-Learning---Hands-on-Lab.git
+[submodule "01. Introduction-decks"]
+	path = 01. Introduction-decks
+	url = git@github.com:Microsoft-OCP-ISV/01.-Innovation-Day-Introduction.git
