@@ -15,3 +15,5 @@ ISVs Innovation Day decks and Hands-on-Labs instructions
 | 10         | [Introduction to Machine Learning](https://github.com/Microsoft-OCP-ISV/01.-Innovation-Day-Introduction/blob/master/06.%20Intro%20to%20Data%20Science%20for%20developers%20with%20Azure%20MLStudio.pptx?raw=true) |
 | 10         | Break |
 | 240        | Hands on Lab choice - [IoT](https://github.com/Microsoft-OCP-ISV/02.-Internet-of-Things---Hands-on-Lab) / [CS](https://github.com/Microsoft-OCP-ISV//03.-Cognitive-Services---Hands-on-Lab) / [ACS](https://github.com/Microsoft-OCP-ISV//04.-Azure-Container-Service---Hands-on-Lab) / [PBI](https://github.com/Microsoft-OCP-ISV//05.-Power-BI---Hands-on-Lab) / [ML](https://github.com/Microsoft-OCP-ISV//06.-Machine-Learning---Hands-on-Lab) |
+
+Copyright (c) 2017 Microsoft OCP ISV
