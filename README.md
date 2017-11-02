@@ -16,4 +16,4 @@ ISVs Innovation Day decks and Hands-on-Labs instructions
 | 10         | Break |
 | 240        | Hands on Lab choice - [IoT](https://github.com/Microsoft-OCP-ISV/02.-Internet-of-Things---Hands-on-Lab) / [CS](https://github.com/Microsoft-OCP-ISV//03.-Cognitive-Services---Hands-on-Lab) / [ACS](https://github.com/Microsoft-OCP-ISV//04.-Azure-Container-Service---Hands-on-Lab) / [PBI](https://github.com/Microsoft-OCP-ISV//05.-Power-BI---Hands-on-Lab) / [ML](https://github.com/Microsoft-OCP-ISV//06.-Machine-Learning---Hands-on-Lab) |
 
-Copyright (c) 2017 Microsoft OCP ISV
+Copyright (c) Microsoft Corporation. All rights reserved.
